@@ -119,3 +119,6 @@ When a KNOWN Unicast Frame is known (MAC Address is recognized by the entry in t
 ![image](https://github.com/psaumur/CCNA/assets/106411237/ff731ab3-fad2-4e10-9fa7-ce583a6a0bb2)
 
 - Note: Dynamic MAC Addresses are removed from the MAC ADDRESS TABLE every 5 minutes of inactivity.
+
+- NB: The SFD is an 8-bit value that ends with 1 instead of a 0. This breaks the bit pattern of the preamble and signals the start of the frame.
+Typically represented as 10101011 in binary.
