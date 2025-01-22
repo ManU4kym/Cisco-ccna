@@ -34,7 +34,7 @@ IF the PAYLOAD is LESS than 46 BYTES then PADDING BYTES are added (padding bytes
 
 ---
 
-When a PC sends a packet to a device with an unknown IP address, it uses an ARP Request.
+When a PC sends a packet to a device with an unknown mac address, it uses an ARP Request.
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/e2d0e5d2-7c98-4671-b356-903132fd7525)
 
@@ -119,3 +119,5 @@ SW1# clear mac address-table dynamic <optional MAC address>
 SW1 #clear mac address-table dynamic interface <optional Interface>
 
 // clears the MAC table entry of the Switch by it's **INTERFACE n**ame.
+
+- Note: The process of addresses being cleared from the MAC address table after 5 minutes of inactivity is konwn as aging
