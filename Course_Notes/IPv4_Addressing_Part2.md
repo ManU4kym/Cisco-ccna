@@ -209,3 +209,7 @@ This sets the 'Description' column to display:
 Interface 				Description
 
 Gi0/0                   ## to SW1 ##
+
+> [!TIP]
+> Command to Configure Ip
+> ip adresss [address] [subnet]
