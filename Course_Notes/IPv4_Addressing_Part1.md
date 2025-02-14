@@ -175,6 +175,8 @@ This, then, allows us to the write out the BINARY number for 221.
 It is : 11011101
 
 ---
+> [!NOTE]
+>Changing decimal to binary we subtract number from the left
 
 Another example: 127
 ```
