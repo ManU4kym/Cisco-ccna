@@ -211,5 +211,5 @@ Interface 				Description
 Gi0/0                   ## to SW1 ##
 
 > [!TIP]
-> Command to Configure Ip
+> Command to Configure Ip <br>
 > ip adresss [address] [subnet]
