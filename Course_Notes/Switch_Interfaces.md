@@ -164,3 +164,6 @@ Error stats will be at the bottom.
 **Input errors**: Total of various counters, such as the above four
 
 **Output errors**: Frames the SWITCH tried to send, but failed due to an error
+
+>[!NOTE]
+>Router Interfaces have the shutdown command applied by default <br> = will be in the ** administratively down/down state by default<br> Switch interfaces do not have the shutdown command applied by default <br> = will be in the up/up state if connected to another device
