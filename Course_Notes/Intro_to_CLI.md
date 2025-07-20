@@ -31,7 +31,7 @@ Flow Control: None
 
 When you first enter the CLI you will DEFAULT be in what is called 'User EXEC' mode.
 
-USER EXEC MODE:
+USER EXEC MODE: ( Normal mode for me )
 
 (Hostname) >		// Prompt looks like THIS //
 
